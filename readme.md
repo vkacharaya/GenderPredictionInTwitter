@@ -1,4 +1,4 @@
-Gender Prediction In Twitter
+# Gender Prediction In Twitter
 
 Social Media Platforms tries to complete user registration as fast as possible. This might be a boon to the users but not for companies who needs to target people for marketing and advertising based on Gender. In this project, we have used character-based n-gram for usernames along with word-based n-gram for description as well as tweets to train the model. We have also utilized favorites, retweet count, side bar colors and link colors for determining gender. We achieved an accuracy of 72.68% after ensembling using majority votes technique. 
 
